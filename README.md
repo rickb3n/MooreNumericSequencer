@@ -20,8 +20,7 @@ Tesina di Fondamenti di Elettronica Digitale, esercizio 3: progettazione complet
 - Simulazione logica (Falstad)
 
 ## Tesina
-📄 **Documento completo (PDF):**  
-👉 [Download](./Tesina_3_Fondamenti_di_Elettronica.pdf)
+📄 **Documento completo (PDF):** 👉 [Download](./Tesina_3_Fondamenti_di_Elettronica.pdf)
 
 ## Schema elettrico
 Schema circuitale finale del sequenziatore, comprensivo di registro di stato, logiche combinatorie e segnali di controllo.
